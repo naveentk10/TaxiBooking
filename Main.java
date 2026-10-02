@@ -9,7 +9,7 @@ class Car {
     private String model;
     private double basePricePerDay;
     private boolean isAvailable;
-    private String Dummy;
+    private String Test1;
 
     public Car(String carId, String brand, String model, double basePricePerDay) {
         this.carId = carId;
